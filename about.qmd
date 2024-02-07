@@ -1,7 +1,7 @@
 ---
 title: "Melanie Abecassis"
 about:
-  template: jolla
+  template: marquee
   image: geo.png
   links:
     - icon: linkedin
@@ -12,19 +12,136 @@ about:
       href: https://github.com/oceanwatch
 ---
 
-## Education
+### EDUCATION
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+-   2012\. PhD in Marine Ecology. University Paul Sabatier, Toulouse, France
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+-   2006\. MSc in Oceanography. University of Paris VI Pierre et Marie Curie, Paris, France
 
-## Experience
+-   2006\. BSc Environmental Engineering (Oceanography). ENSTA, Paris, France
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+-   2004\. Bsc Physics. University of Paris XI, Orsay, France
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
----
+### WORK EXPERIENCE 
 
-About this site
+**2016-2020: OceanWatch Operations Manager**\
+Pacific Islands Fisheries Science Center (PIFSC), NOAA/JIMAR, Honolulu, HI \
+(contractor to the National Ocean and Atmosphere Administration, through the Joint Institute for Marine and Atmospheric Research of the University of Hawaii)
+
+Duties:
+
+-   Manage a website that delivers ocean remote sensing data to a variety of users (scientists, federal and state resource managers, fishermen, educators, general public)
+
+-   Understand and fulfill needs and requirements of each type of users
+
+-   Maintain data streams, metadata, data platforms
+
+-   Maintain Unix servers (CentOS6)
+
+-   Keep up with development and launch of new satellites, sensors, data products, and data platforms
+
+-   Ensure data compliance with federal requirements for Public Access to Research Results (PARR)
+
+-   Train users in the use of remote sensing data, conduct outreach
+
+-   Collaborate on research projects across PIFSC as well as with various stakeholders and external partners: extraction of data, creation of custom processing and analysis scripts, interpretation of data
+
+-   Manage project tasks and budgets independently Supervise and manage up to 8 staff across various projects (develop work plans, conduct performance evaluations, conduct recruitments, manage workloads and deadlines)
+
+    **2014-2015: Ecosystem Researcher, PIFSC, Honolulu, HI**
+
+    Duties:
+
+-   Lead a research project on habitat modeling for two species of cetaceans around the Hawaiian Islands
+
+-   Integrated and synthesized data from various external partners (satellite tracking, ocean remote sensing, ocean general circulation model, diet and active acoustics data) into an ecospatial model to quantify habitat preference for each species
+
+-   Published results in a peer-reviewed scientific journal
+
+-   Successfully applied for external funding (\$159k) to fund project
+
+    **2008 -- 2014: Research Analyst, PIFSC, Honolulu, HI**
+
+    Duties: Worked on a variety of research projects, including:
+
+-   Modeled spatial and temporal population dynamics of swordfish in the Pacific Ocean using satellite tracking data, fisheries data and the SEAPODYM model developed by Lehodey et al, 2008
+
+-   Modeled loggerhead turtles habitat and movements, using satellite tracking data and ocean remote sensing data
+
+-   Analyzed interactions and overlap between loggerhead turtles and the Hawaii- based longline fishery targeting swordfish to evaluate strategies to reduce bycatch
+
+-   Studied changes in catch composition of the Hawaii-based longline fishery using logbook and observers data
+
+-   Participated in research cruises
+
+-   Published results in peer-reviewed scientific journals
+
+    **2007-2008: Research Assistant, PIFSC, Honolulu, HI**
+
+    Duties: Worked on a variety of research projects, including:
+
+-   Studied trends in primary production in oligotrophic gyres using ocean color satellite data
+
+-   Studied movements of the Hawaiian moonfish (opah) using satellite tracking data
+
+-   Participated in research cruises
+
+-   Published results in peer-reviewed scientific journals
+
+    ### SKILLS 
+
+-   Expert in data manipulation, advanced statistical analysis, data visualization, mapping , statistical and spatial modeling, GIS using R
+
+-   Proficient in Python for data analysis and visualization, web scraping, general scripting
+
+-   Proficient in using the Generic Mapping Tools (GMT) for mapping and spatial analysis
+
+-   Over ten years of experience working with large datasets from various sources, and building statistical models (Generalized Linear Models, Generalized Additive Models, Generalized Mixed Effects Models)
+
+-   8 years of experience in designing and managing a fully responsive website (basic knowledge of XHTML, javascript, PHP), various data platforms (THREDDS, Live Access Server, ERDDAP) using RESTful web services
+
+-   Working knowledge of SQLite3
+
+-   Working knowledge of ArcGIS
+
+-   Working knowledge of Perl, bash, C-shell
+
+-   Three years of experience managing metadata and ensuring compliance with PARR requirements
+
+-   eight years of experience managing Unix servers
+
+-   Fluent in French (first language), English
+
+-   Proficient in Spanish
+
+    ### SYNERGISTIC ACTIVITIES
+
+-   Participated in 6 research cruises (trawl sampling, CTDs, marine mammal observations, active and passive acoustics, longline fishing) for up to 30 days at a time
+
+-   Conducted scientific outreach with middle schoolers during various outreach events and class visits: NOAA IRC Family Day (2014), NOAA Science Camps (2014, 2015), NOAA IRC Camp (2015), class visit at the Mid Pacific Institute, Honolulu (2014), participated in writing outreach blogs for research cruises (2014,2015)
+
+-   Co-led "Girls who code" club at Mid Pacific Institute, Honolulu (2016)
+
+    ### AWARDS AND FUNDING 
+
+-   2015 -- National Marine Fisheries Service / PIFSC Team Member of the Year
+
+-   2012 -- NOAA Fisheries And The Environment funding: \$159k (lead PI)
+
+-   2009 -- Fishery Bulletin: Best Paper award (co-author)
+
+    ### PUBLICATIONS 
+
+    Author or co-author on 9 peer-reviewed publications, and 6 technical reports. Presented research at multiple national and international conferences and symposiums.
+
+    Main publications:
+
+-   Abecassis, M., Polovina, J, Baird, R.W., Copeland , A., Drazen, J.C., Domokos, R., Oleson, E., Jia, Y., Schorr, G.S., Webster, D.L., Andrews, R.D. 2015. Characterizing a foraging hotspot for short-finned pilot whales and Blainville's beaked whales located off the west side of Hawai'i Island by using tagging and oceanographic data PLoS ONE, <http://dx.doi.org/10.1371/journal.pone.0142628>
+
+-   Abecassis, M., Senina, I., Lehodey, P., Gaspar, P., Parker, D., Balazs, G., Polovina, J. 2013. A model of loggerhead sea turtle (Caretta caretta) habitat and movement in the oceanic North Pacific. PLoS ONE, 8(9): e73274. doi:10.1371/journal.pone.0073274
+
+-   Abecassis, M., Dewar, H., Hawn, D.R., Polovina, J.J. 2012. Modeling swordfish daytime vertical habitat in the North Pacific Ocean from pop- up archival tags. Marine Ecology Progress Series, 452:219-236
+
+-   Polovina, J.J., Abecassis, M., Howell, E.A., Woodworth, P. 2009. Increases in the relative abundance of mid-trophic level fishes concurrent with declines in apex predators in the subtropical North Pacific, 1996--2006. Fishery Bulletin, 107:523-531
+
+-   Polovina, J.J., Howell, E.A., Abecassis, M. 2008. Ocean's least productive waters are expanding. Geophysical Research Letters, 35, L03618, doi:10.1029/2007GL031745
