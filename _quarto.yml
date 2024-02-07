@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "MA Data Science"
@@ -8,8 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: contact.qmd
-        text: Contact
 
 format:
   html:

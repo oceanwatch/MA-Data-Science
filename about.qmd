@@ -1,8 +1,10 @@
 ---
-title: "Melanie Abecassis"
+title: "About"
 about:
   template: marquee
   image: geo.png
+  image-width: 20em
+  image-shape: round
   links:
     - icon: linkedin
       text: Linkedin
@@ -11,6 +13,8 @@ about:
       text: Github
       href: https://github.com/oceanwatch
 ---
+
+## Melanie Abecassis {style="center"}
 
 ### EDUCATION
 
